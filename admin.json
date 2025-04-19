@@ -1,0 +1,22 @@
+[
+    {
+        "username": "admin",
+        "password": "12345",
+        "name": "Kate",
+        "role": "Admin",
+        "number": "+380 (12) 345 678 9012",
+        "email": "nope@gmail.com",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, officia voluptatibus iste optio illo reiciendis! Illum ex harum incidunt labore? Ad libero itaque veniam inventore architecto, ipsa quis molestiae. Sint.",
+        "photo": "https://img.freepik.com/free-photo/top-view-roses-flowers_23-2148860041.jpg?uid=R192778472&ga=GA1.1.1627011038.1734796169&w=740"
+    },
+    {
+        "username": "user",
+        "password": "qwert",
+        "name": "Lola",
+        "role": "user",
+        "number": "none",
+        "email": "lola-none@gmail.com",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, officia voluptatibus iste optio illo reiciendis! Illum ex harum incidunt labore? Ad libero itaque veniam inventore architecto, ipsa quis molestiae. Sint.",
+        "photo": "https://img.freepik.com/free-photo/cherry-branch_1182-766.jpg?t=st=1745080505~exp=1745084105~hmac=a38e07cf72045b04b32d0c8d161a389cad4857579387a21fd4b7b348ff6b58de&w=826"
+    }
+]
